@@ -1,0 +1,460 @@
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\appsettings.Development.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\appsettings.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\UsuariosDB.staticwebassets.runtime.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\UsuariosDB.staticwebassets.endpoints.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\UsuariosDB.exe
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\UsuariosDB.deps.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\UsuariosDB.runtimeconfig.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\UsuariosDB.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\UsuariosDB.pdb
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Azure.Core.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Azure.Identity.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.ClientModel.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Memory.Data.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.csproj.AssemblyReference.cache
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.AssemblyInfoInputs.cache
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.AssemblyInfo.cs
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.csproj.CoreCompileInputs.cache
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.MvcApplicationPartsAssemblyInfo.cache
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.RazorAssemblyInfo.cache
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.RazorAssemblyInfo.cs
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\scopedcss\bundle\UsuariosDB.styles.css
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\scopedcss\projectbundle\UsuariosDB.bundle.scp.css
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\2r9crs6zfa-b9sayid5wm.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\v8llvk1k8y-61n19gt1b8.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\u7ja64bzu7-xtxxf3hu2r.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\bt4hq7c86b-bqjiyaj88i.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\hin38x54fa-c2jlpeoesf.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\zimyxmalzb-erw9l3u2r3.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\r1vj4e58s3-aexeepp0ev.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\9a55ewm0vz-d7shbmvgxk.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\6x8gmr3m22-ausgxo2sd3.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\ofz8xl3n6l-k8d9w2qqmf.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\k5epco6wfw-cosvhxvwiu.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\q2rzsmgrkq-ub07r2b239.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\2vhrt7jj7v-fvhpjtyr6v.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\u5c5hy03wt-b7pk76d08c.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\zhznm9bxgf-fsbi9cje9m.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\tv55fa9evj-rzd6atqjts.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\wpk2gg15x1-ee0r1s7dh0.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\rxt0i2h3ui-dxx9fxp4il.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\me3ovtoiu5-jd9uben2k1.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\d29dg3ztsn-khv3u5hwcm.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\n1qodz9knf-r4e9w2rdcm.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\w9rn2v4g68-lcd1t2u6c8.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\f32o4j8kdo-c2oey78nd0.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\adqmm9jv92-tdbxkamptv.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\3x2pwzlylj-j5mq2jizvt.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\87c030bv8f-06098lyss8.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\mi0mk4pqw9-nvvlpmu67g.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\pspiwrfdy1-s35ty4nyc5.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\zkz9o7ivdz-pj5nd1wqec.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\zrbt1ogxbx-46ein0sx1k.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\gaivgxczj1-v0zj4ognzu.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\7zg9sbhu04-37tfw0ft22.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\diijwikuvz-hrwsygsryq.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\eskn2m2h32-pk9g2wxc8p.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\p5xsceabjm-ft3s53vfgj.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\nytjxgnqqd-6cfz1n2cew.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\2cz8247dk0-6pdc2jztkx.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\tmyfvwj72j-493y06b0oq.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\0okhu61vm6-iovd86k7lj.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\4u0xompxa9-vr1egmr9el.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\ur1be4hqlb-kbrnm935zg.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\7b2r6smcyl-jj8uyg4cgr.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\ndrr4w81ds-y7v9cxd14o.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\x56jvzzfam-notf2xhcfb.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\o8dq9ghqn0-h1s4sie4z3.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\rp8pz9jaoh-63fj8s7r0e.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\3fyjhq1yvm-0j3bgjxly4.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\aputwtnqk9-47otxtyo56.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\3hwrqpryau-4v8eqarkd7.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\kbj471l8sv-356vix0kms.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\iei3ixwle4-83jwlth58m.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\4g6u68375m-mrlpezrjn3.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\7qh6db55dt-lzl9nlhx6b.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\kn0vf5n3h2-ag7o75518u.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\qhotcumv9u-x0q3zqp4vz.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\c8c01tqjvu-0i3buxo5is.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\t2c42ll1rq-o1o13a6vjx.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\hie9hjqui3-ttgo8qnofa.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\1mdgpmz8lg-2z0ns9nrw6.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\61i8kh31h5-muycvpuwrr.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\yg42tan9d5-87fc7y1x7t.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\6qbvora3a4-mlv21k5csn.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\s7dhu9gn9p-olyy6j8ysn.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\compressed\4cosjb3njq-olyy6j8ysn.gz
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\staticwebassets.build.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\staticwebassets.development.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.csproj.Up2Date
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\refint\UsuariosDB.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.pdb
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\UsuariosDB.genruntimeconfig.cache
+D:\UsuariosDB\UsuariosDB\UsuariosDB\obj\Debug\net9.0\ref\UsuariosDB.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Humanizer.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.CodeDom.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB\UsuariosDB\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\appsettings.Development.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\appsettings.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\UsuariosDB.staticwebassets.endpoints.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\UsuariosDB.staticwebassets.runtime.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\UsuariosDB.exe
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\UsuariosDB.deps.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\UsuariosDB.runtimeconfig.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\UsuariosDB.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\UsuariosDB.pdb
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Azure.Core.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Azure.Identity.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Humanizer.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.ClientModel.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.CodeDom.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Memory.Data.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.csproj.AssemblyReference.cache
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.AssemblyInfoInputs.cache
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.AssemblyInfo.cs
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.csproj.CoreCompileInputs.cache
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.MvcApplicationPartsAssemblyInfo.cache
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.RazorAssemblyInfo.cache
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.RazorAssemblyInfo.cs
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\scopedcss\bundle\UsuariosDB.styles.css
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\scopedcss\projectbundle\UsuariosDB.bundle.scp.css
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\2r9crs6zfa-b9sayid5wm.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\v8llvk1k8y-61n19gt1b8.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\u7ja64bzu7-xtxxf3hu2r.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\bt4hq7c86b-bqjiyaj88i.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\hin38x54fa-c2jlpeoesf.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\zimyxmalzb-erw9l3u2r3.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\r1vj4e58s3-aexeepp0ev.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\9a55ewm0vz-d7shbmvgxk.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\6x8gmr3m22-ausgxo2sd3.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\ofz8xl3n6l-k8d9w2qqmf.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\k5epco6wfw-cosvhxvwiu.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\q2rzsmgrkq-ub07r2b239.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\2vhrt7jj7v-fvhpjtyr6v.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\u5c5hy03wt-b7pk76d08c.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\zhznm9bxgf-fsbi9cje9m.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\tv55fa9evj-rzd6atqjts.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\wpk2gg15x1-ee0r1s7dh0.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\rxt0i2h3ui-dxx9fxp4il.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\me3ovtoiu5-jd9uben2k1.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\d29dg3ztsn-khv3u5hwcm.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\n1qodz9knf-r4e9w2rdcm.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\w9rn2v4g68-lcd1t2u6c8.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\f32o4j8kdo-c2oey78nd0.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\adqmm9jv92-tdbxkamptv.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\3x2pwzlylj-j5mq2jizvt.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\87c030bv8f-06098lyss8.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\mi0mk4pqw9-nvvlpmu67g.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\pspiwrfdy1-s35ty4nyc5.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\zkz9o7ivdz-pj5nd1wqec.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\zrbt1ogxbx-46ein0sx1k.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\gaivgxczj1-v0zj4ognzu.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\7zg9sbhu04-37tfw0ft22.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\diijwikuvz-hrwsygsryq.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\eskn2m2h32-pk9g2wxc8p.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\p5xsceabjm-ft3s53vfgj.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\nytjxgnqqd-6cfz1n2cew.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\2cz8247dk0-6pdc2jztkx.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\tmyfvwj72j-493y06b0oq.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\0okhu61vm6-iovd86k7lj.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\4u0xompxa9-vr1egmr9el.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\ur1be4hqlb-kbrnm935zg.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\7b2r6smcyl-jj8uyg4cgr.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\ndrr4w81ds-y7v9cxd14o.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\x56jvzzfam-notf2xhcfb.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\o8dq9ghqn0-h1s4sie4z3.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\rp8pz9jaoh-63fj8s7r0e.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\3fyjhq1yvm-0j3bgjxly4.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\aputwtnqk9-47otxtyo56.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\3hwrqpryau-4v8eqarkd7.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\kbj471l8sv-356vix0kms.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\iei3ixwle4-83jwlth58m.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\4g6u68375m-mrlpezrjn3.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\7qh6db55dt-lzl9nlhx6b.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\kn0vf5n3h2-ag7o75518u.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\qhotcumv9u-x0q3zqp4vz.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\c8c01tqjvu-0i3buxo5is.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\t2c42ll1rq-o1o13a6vjx.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\hie9hjqui3-ttgo8qnofa.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\1mdgpmz8lg-2z0ns9nrw6.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\61i8kh31h5-muycvpuwrr.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\yg42tan9d5-87fc7y1x7t.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\6qbvora3a4-mlv21k5csn.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\s7dhu9gn9p-olyy6j8ysn.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\compressed\4cosjb3njq-olyy6j8ysn.gz
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\staticwebassets.build.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\staticwebassets.development.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.csproj.Up2Date
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\refint\UsuariosDB.dll
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.pdb
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\UsuariosDB.genruntimeconfig.cache
+D:\UsuariosDB\UsuariosDB - Copia\UsuariosDB\obj\Debug\net9.0\ref\UsuariosDB.dll

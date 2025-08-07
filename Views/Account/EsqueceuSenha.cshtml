@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Recuperar Senha";
+}
+
+<div style="
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    z-index: 1000;
+">
+    <h2 class="text-center">Recuperar Senha</h2>
+
+    <form method="post">
+        <input type="email" name="email" class="form-control mb-2" placeholder="Email cadastrado" required />
+        <div class="d-flex justify-content-center gap-2">
+            <button type="submit" class="btn btn-warning" style="min-width: 100px;">Enviar</button>
+            <button type="button" class="btn btn-secondary" style="min-width: 100px;" onclick="location.href='@Url.Action("Login", "Account")'">Voltar</button>
+        </div>
+
+    </form>
+
+    @if (ViewBag.Mensagem != null)
+    {
+        <div class="alert alert-info mt-2">@ViewBag.Mensagem</div>
+    }
+</div>
+
+<!-- Para que o conteúdo abaixo não fique escondido atrás do form fixo -->
+<div style="height: 180px;"></div>

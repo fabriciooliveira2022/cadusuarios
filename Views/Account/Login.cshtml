@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div style="
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    z-index: 1050;
+">
+    <h2 class="text-center mb-3">Login</h2>
+
+    <form method="post">
+        <input type="email" name="email" placeholder="Email" class="form-control mb-2" required />
+        <div style="position: relative;">
+            <input type="password" name="senha" id="senha" placeholder="Senha" class="form-control mb-2" required />
+
+            <span onclick="toggleSenha()"
+                  style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); cursor: pointer; color: gray;">
+                <i id="iconeSenha" class="fa-solid fa-eye-slash"></i>
+            </span>
+        </div>
+
+        <button class="btn btn-primary w-100">Entrar</button>
+    </form>
+
+    <div class="mt-3 text-center">
+        <a href="/Account/EsqueceuSenha">Esqueceu a senha?</a><br />
+        <a href="/Account/Register">Cadastre-se?</a>
+    </div>
+
+    @if (ViewBag.Mensagem != null)
+    {
+        <div class="alert alert-success mt-2">
+            @ViewBag.Mensagem
+        </div>
+    }
+
+    @if (ViewBag.Erro != null)
+    {
+        <div class="alert alert-danger mt-2">@ViewBag.Erro</div>
+    }
+</div>
+
+<!-- Espaço para evitar que o conteúdo fique atrás do form fixo -->
+<div style="height: 320px;"></div>
+
+<script>
+    function toggleSenha() {
+        const input = document.getElementById("senha");
+        const icone = document.getElementById("iconeSenha");
+
+        if (input.type === "password") {
+            input.type = "text";
+            icone.classList.remove("fa-eye-slash");
+            icone.classList.add("fa-eye");
+        } else {
+            input.type = "password";
+            icone.classList.remove("fa-eye");
+            icone.classList.add("fa-eye-slash");
+        }
+    }
+</script>

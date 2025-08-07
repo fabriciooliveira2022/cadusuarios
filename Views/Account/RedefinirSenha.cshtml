@@ -1,0 +1,12 @@
+﻿<h2>Nova Senha</h2>
+
+<form method="post">
+    <input type="hidden" name="token" value="@ViewBag.Token" />
+    <input type="password" name="novaSenha" class="form-control mb-2" placeholder="Nova senha" required />
+    <button class="btn btn-success">Salvar nova senha</button>
+</form>
+
+@if (!string.IsNullOrEmpty(ViewBag.Mensagem))
+{
+    <div class="alert alert-info mt-2">@ViewBag.Mensagem</div>
+}

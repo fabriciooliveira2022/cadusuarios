@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Bem-vindo";
+}
+
+<h2>Olá, @ViewBag.Nome! Seja bem-vindo!</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Foto))
+{
+    <img src="@ViewBag.Foto" alt="Foto de perfil" width="100" />
+}
+
+<form asp-controller="Account" asp-action="Logout" method="post" style="margin-top:20px;">
+    <button type="submit" class="btn btn-danger">Sair</button>
+</form>

@@ -1,0 +1,56 @@
+﻿@model SeuProjeto.Models.Usuario
+
+<div style="
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    z-index: 1000;
+">
+    <h2 class="text-center">Cadastro</h2>
+
+    <form method="post" enctype="multipart/form-data">
+        <input asp-for="Nome" class="form-control mb-2" placeholder="Nome" />
+        <input asp-for="Email" class="form-control mb-2" placeholder="Email" />
+        <div style="position: relative;">
+            <input asp-for="Senha" type="password" id="senha" class="form-control mb-2" placeholder="Senha" />
+
+            <span onclick="toggleSenha()"
+                  style="position: absolute; right: 12px; top: 50%; transform: translateY(-50%); cursor: pointer; color: gray;">
+                <i id="iconeSenha" class="fa-solid fa-eye-slash"></i>
+            </span>
+        </div>
+
+        <input type="file" name="FotoUpload" class="form-control mb-2" />
+        <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-success flex-fill">Cadastrar</button>
+            <button type="button" class="btn btn-secondary flex-fill" onclick="location.href='@Url.Action("Login", "Account")'">Voltar</button>
+        </div>
+
+    </form>
+</div>
+
+<!-- Espaço para evitar conteúdo atrás do form fixo -->
+<div style="height: 320px;"></div>
+
+<script>
+    function toggleSenha() {
+        const input = document.getElementById("senha");
+        const icone = document.getElementById("iconeSenha");
+
+        if (input.type === "password") {
+            input.type = "text";
+            icone.classList.remove("fa-eye-slash");
+            icone.classList.add("fa-eye");
+        } else {
+            input.type = "password";
+            icone.classList.remove("fa-eye");
+            icone.classList.add("fa-eye-slash");
+        }
+    }
+</script>
